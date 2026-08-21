@@ -12,7 +12,7 @@ export const AreanDispatcher: BadgeData = {
   releaseDate: '2026-12-30',
   morality: 'any',
   badgeText: `In recognition of your PvP participation, you've been provided a high-tech remote connection terminal that will allow you to join or host Arena matches from any virtually any location.`,
-  effect: `Grants 'Remote Arena Terminal' accolade macro that can be used to access the Arena from most locations.`,
+  effect: `Awards 'Remote Arena Terminal' accolade macro that can be used to access the Arena from most locations.`,
   links: [
     { title: 'Arena Dispatcher Badge', href: 'https://homecoming.wiki/wiki/Arena_Dispatcher_Badge' },
   ],
