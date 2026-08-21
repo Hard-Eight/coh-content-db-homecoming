@@ -10,7 +10,7 @@ export const AreanDispatcher: BadgeData = {
   setTitleId: [2594],
   name: 'Arena Dispatcher',
   releaseDate: '2026-12-30',
-  morality: 'any',
+  morality: 'all',
   badgeText: `In recognition of your PvP participation, you've been provided a high-tech remote connection terminal that will allow you to join or host Arena matches from any virtually any location.`,
   effect: `Awards 'Remote Arena Terminal' accolade macro that can be used to access the Arena from most locations.`,
   links: [
