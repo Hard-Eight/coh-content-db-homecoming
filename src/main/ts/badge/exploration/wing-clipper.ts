@@ -1,6 +1,5 @@
 import { BadgeData, contactLink } from 'coh-content-db'
 import { KallistiWharf } from '../../zone/kallisti-wharf'
-import { AbandonedRobotJunk } from '../../contact/abandoned-robot-junk'
 
 export const WingClipper: BadgeData = {
   type: 'exploration',
