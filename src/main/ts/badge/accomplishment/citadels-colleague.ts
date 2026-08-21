@@ -3,7 +3,7 @@ import { CitadelTaskForceRevamp } from '../../mission/citadel-task-force-revamp'
 
 export const CitadelsColleague: BadgeData = {
   type: 'accomplishment',
-  key: 'citadels-colleague,
+  key: 'citadels-colleague',
   gameId: 'CitadelRevampTF',
   setTitleId: [2606],
   name: [
