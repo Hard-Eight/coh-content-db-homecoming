@@ -9,7 +9,7 @@ export const OnslaughtVictor: BadgeData = {
   releaseDate: '2026-12-30',
   morality: 'all',
   badgeText: `You've won your first Onslaught match. You're considered an Onslaught Victor.`,
-  acquisition: 'Win an Arena Onslaught event.',
+  acquisition: `Win an Arena Onslaught event.`,
   links: [
     { title: 'Onslaught Victor Badge', href: 'https://homecoming.wiki/wiki/Onslaught_Victor_Badge' },
   ],

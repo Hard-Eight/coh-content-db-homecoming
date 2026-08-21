@@ -9,7 +9,7 @@ export const LeadingTheCharge: BadgeData = {
   releaseDate: '2026-12-30',
   morality: 'all',
   badgeText: `You've gained an understanding of what it means to be a leader for your troops, as you've lead the charge on defeating your enemy's soldiers while playing Arena's Onslaught mode.`,
-  acquisition: 'Defeat 100 of the enemy team's soldiers in an Onslaught Arena match.',
+  acquisition: `Defeat 100 of the enemy team's soldiers in an Onslaught Arena match.`,
   links: [
     { title: 'Leading The Charge Badge', href: 'https://homecoming.wiki/wiki/Leading_The_Charge_Badge' },
   ],

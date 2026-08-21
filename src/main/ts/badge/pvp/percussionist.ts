@@ -9,7 +9,7 @@ export const Percussionist: BadgeData = {
   releaseDate: '2026-12-30',
   morality: 'all',
   badgeText: `You didn't skip a beat while putting an end to the Carnival of Shadows raves, beating down Maiden Percussion like you were playing a drum.`,
-  acquisition: 'Defeat the Carnival of Shadows rave's arch-villain during an Onslaught Arena match.',
+  acquisition: `Defeat the Carnival of Shadows rave's arch-villain during an Onslaught Arena match.`,
   links: [
     { title: 'Percussionist Badge', href: 'https://homecoming.wiki/wiki/Percussionist_Badge' },
   ],

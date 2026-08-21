@@ -90,7 +90,7 @@ export const PVP_BADGES: BadgeData[] = [
   LeadingTheCharge,
   OtherworldlyOffensive,
   RegeneratingRaver,
-  ShockignSaboteur,
+  ShockingSaboteur,
   Percussionist,
   WarResearcher,
   StrawweightChampion,

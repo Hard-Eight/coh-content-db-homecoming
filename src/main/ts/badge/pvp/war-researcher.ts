@@ -9,7 +9,7 @@ export const WarResearcher: BadgeData = {
   releaseDate: '2026-12-30',
   morality: 'all',
   badgeText: `War is the ultimate engine of science, often leading to breakthrough discoveries prompted by the search for means by which they might destroy their enemies.`,
-  acquisition: 'Donate Onslaught Credit salvage to your team's scientist during an Arena Onslaught match.',
+  acquisition: `Donate Onslaught Credit salvage to your team's scientist during an Arena Onslaught match.`,
   links: [
     { title: 'War Researcher Badge', href: 'https://homecoming.wiki/wiki/War_Researcher_Badge' },
   ],

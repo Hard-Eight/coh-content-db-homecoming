@@ -9,7 +9,7 @@ export const RegeneratingRaver: BadgeData = {
   releaseDate: '2026-12-30',
   morality: 'all',
   badgeText: `It's difficult to permanently put an end to the Troll's raving shenanigans when they regenerate so quickly, but you've put the brutish Spike in his place, something every Troll must respect.`,
-  acquisition: 'Defeat the Trolls rave's arch-villain during an Onslaught Arena match.',
+  acquisition: `Defeat the Trolls rave's arch-villain during an Onslaught Arena match.`,
   links: [
     { title: 'Regenerating Raver Badge', href: 'https://homecoming.wiki/wiki/Regenerating_Raver_Badge' },
   ],
