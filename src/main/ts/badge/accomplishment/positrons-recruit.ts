@@ -1,7 +1,7 @@
 import { BadgeData } from 'coh-content-db'
 import { PositronTaskForceClassic } from '../../mission/positron-task-force-classic'
 
-export const PositronsAlly: BadgeData = {
+export const PositronsRecruit: BadgeData = {
   type: 'accomplishment',
   key: 'positrons-recruit',
   gameId: 'PositronClassicTF',
