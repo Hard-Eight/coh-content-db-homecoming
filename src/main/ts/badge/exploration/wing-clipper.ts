@@ -17,6 +17,6 @@ export const WingClipper: BadgeData = {
   ],
   icon: 'https://n15g.github.io/coh-content-db-homecoming/images/badges/exploration/villain.png',
   requirements: [
-    { key: 'loc-0', type: 'location', location: { zoneKey: MayhemKingsRow.key, coords: [5702 121 4697], icon: 'badge', iconText: '1' } },
+    { key: 'loc-0', type: 'location', location: { zoneKey: KallistiWharf.key, coords: [5702, 121, 4697], icon: 'badge', iconText: '1' } },
   ],
 }
