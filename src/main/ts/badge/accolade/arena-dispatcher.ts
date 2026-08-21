@@ -3,7 +3,7 @@ import { OnslaughtVictor } from '../pvp/onslaught-victor'
 import { LeadingTheCharge } from '../pvp/leading-the-charge'
 import { WarResearcher } from '../pvp/war-researcher'
 
-export const AreanDispatcher: BadgeData = {
+export const ArenaDispatcher: BadgeData = {
   type: 'accolade',
   key: 'arena-dispatcher',
   gameId: 'ArenaWarpAccolade',
