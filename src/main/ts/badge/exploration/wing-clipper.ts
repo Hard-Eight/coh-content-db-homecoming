@@ -1,4 +1,4 @@
-import { BadgeData, contactLink } from 'coh-content-db'
+import { BadgeData } from 'coh-content-db'
 import { KallistiWharf } from '../../zone/kallisti-wharf'
 
 export const WingClipper: BadgeData = {
