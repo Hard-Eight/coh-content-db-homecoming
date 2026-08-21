@@ -9,6 +9,6 @@ export const CitadelTaskForce: MissionData = {
   contactKeys: Citadel.key,
   levelRange: [25, 30],
   links: [
-    { title: 'Citadel Task Force', href: 'https://homecoming.wiki/wiki/Citadel_Task_Force' },
+    { title: 'Citadel Task Force', href: 'https://homecoming.wiki/wiki/Old_Citadel_Task_Force' },
   ],
 }
