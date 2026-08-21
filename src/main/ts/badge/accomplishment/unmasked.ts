@@ -4,7 +4,7 @@ import { CitadelTaskForceRevamp } from '../../mission/citadel-task-force-revamp'
 export const Unmasked: BadgeData = {
   type: 'accomplishment',
   key: 'unmasked',
-  gameId: 'Citadel5thSecret,
+  gameId: 'Citadel5thSecret',
   setTitleId: [2607],
   name: 'Unmasked',
   releaseDate: '2026-12-30',
